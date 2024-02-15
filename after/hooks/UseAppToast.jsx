@@ -1,0 +1,1 @@
+export const [burnTransactions, setBurnTransactions] = useState<any[]>([]);

@@ -1,0 +1,1 @@
+export const [approveTxHash, setApproveTxHash] = useState<string | null>(null);
